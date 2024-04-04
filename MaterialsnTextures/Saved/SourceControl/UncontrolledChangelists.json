@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/materials/MasterMaterial.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/materials/Chest.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/materials/Brick.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CU/T2QAXMRK9SEJVR22E5V03V.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Chest/default_material.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Chest/ukqncf3bw_2K_Albedo.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Chest/ukqncf3bw_2K_Displacement.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Chest/ukqncf3bw_2K_Normal_LOD0.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Chest/ukqncf3bw_2K_Roughness.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Chest/ukqncf3bw_LOD0.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Albedo.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_AO.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Displacement.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Normal.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/MaterialsnTextures/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Roughness.uasset"
+			]
+		}
+	]
+}
